@@ -8,5 +8,7 @@ public class Hat {
 
         System.out.println("I was there last week and the prices are great as well");
 
+        System.out.println("Thank you for the recommendation, I will definitely check that out ");
+
     }
 }
